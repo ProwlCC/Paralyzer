@@ -1,9 +1,22 @@
 # Paralyzer
-Paralyzer of WaterMC Network | By: @F3rnet
+------------------------------------------------------------------------
+wParalyzer | Plugin create by @JavaOrb | Updated: 0.5 - 26/04/21
 
-Example: https://www.youtube.com/watch?v=ggJVik28E9Y
+- Cooldown.
+- Paralized cooldown: 5s
+- Paralyzer used item cooldown: 30s
+- Lore edit.
+- Name edit.
+- Permission of give paralyzer: paralyzer.give
 
-Permission: paralyzer.give
-Command: /paralyzer
+Tag: @everyone 
 
-Download in spigot: https://www.spigotmc.org/resources/paralyzer-of-watermc-network.91620/
+Cost: 0.00
+Paymets: Paypal or Mercadopago.
+Time of license: Permanently
+
+SRC Cost: 3.00
+Paymets: Paypal or Mercadopago.
+
+Download: https://www.spigotmc.org/resources/paralyzer-of-watermc-network.91620/
+------------------------------------------------------------------------
